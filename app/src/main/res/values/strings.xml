@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="image_tree">image_tree</string>
+    <string name="titulo_app">Mi Hola Mundo</string>
+    <string name="texto">El texto de la aplicación. Lorem Ipsum</string>
+    <string name="boton">Click aquí</string>
+</resources>
